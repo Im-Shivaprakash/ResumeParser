@@ -1,0 +1,50 @@
+Computer Vision Engineer – Fresher (Job Description)
+
+Role Summary:
+We are looking for a Computer Vision Engineer (Fresher) who will work on image processing, deep learning–based model development, and deployment of vision systems for real-world applications.
+
+Responsibilities
+
+Work with image and video datasets for preprocessing, annotation, and augmentation
+
+Implement classical computer vision techniques (thresholding, edge detection, feature extraction)
+
+Build and train deep learning models for detection, classification, and segmentation
+
+Evaluate models using metrics like mAP, IOU, accuracy, and F1-score
+
+Optimize models for inference using ONNX, TensorRT, or OpenVINO
+
+Collaborate with the team to integrate vision models into applications or pipelines
+
+Write clean, modular, and well-documented code
+
+Required Skills
+
+Strong understanding of Python
+
+Knowledge of OpenCV, NumPy, Pandas
+
+Basics of Deep Learning frameworks: PyTorch or TensorFlow
+
+Understanding of CNNs, data preprocessing, augmentations
+
+Basic knowledge of object detection algorithms (YOLO, SSD, Faster R-CNN)
+
+Good understanding of image fundamentals (color spaces, filters, morphology)
+
+Ability to work with datasets and write custom preprocessing pipelines
+
+Good to Have
+
+Experience with MediaPipe, OpenVINO, TensorRT, or ONNX
+
+Knowledge of tracking algorithms (SORT, DeepSORT)
+
+Experience with Kaggle projects or personal CV projects
+
+Familiarity with GPU acceleration (CUDA basics)
+
+Education
+
+Bachelor's degree in Computer Science, AI/ML, ECE, or related fields

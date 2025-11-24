@@ -1,0 +1,297 @@
+y
+{
+  "candidate_id": "",
+  "name": "SHIVAPRAKASH S",
+  "contact": {
+    "email": "mailto:shivaprakashsrinivasaniam@gmail.com",
+    "phone": [
+      "9994722736"
+    ],
+    "location": "Coimbatore  India",
+    "linkedin": "https://www.linkedin.com/in/shivaprakash-srinivasan-690168257/",
+    "github": "https://github.com/Im-Shivaprakash",
+    "portfolio": "https://github.com/Im-Shivaprakash/Text-Sentiment-Analysis-LSTM",
+    "other_links": [
+      "https://github.com/Im-Shivaprakash",
+      "https://github.com/Im-Shivaprakash/Text-Sentiment-Analysis-LSTM",
+      "https://github.com/Im-Shivaprakash/Vidhai",
+      "https://github.com/Im-Shivaprakash/MovieRecommenderLangChain"
+    ]
+  },
+  "headline": "Passionate computer vision engineer",
+  "summary": "Career Objective\nPassionate computer vision engineer with expertise in image processing  object detection  and deep learning techniques \nProficient in Python  OpenCV  TensorFlow  and YOLO algorithm  Skilled in developing innovative solutions for tasks like real \ntime object detection  fitness tracking  and disease prediction  Experienced in deploying models for practical applications and\noptimizing performance for large datasets  Dedicated to advancing computer vision through innovative projects and continuous\nlearning",
+  "skills": {
+    "technical": [
+      "Python",
+      "SQL",
+      "Numpy",
+      "Pandas",
+      "Seaborn",
+      "Plotly",
+      "Scipy",
+      "Matplotlib",
+      "Scikit Learn",
+      "Tensorflow",
+      "OpenCV",
+      "YOLO",
+      "You Only Look Once",
+      "Pytorch",
+      "Langchain",
+      "Langgraph",
+      "OpenAI models",
+      "Pytorch"
+    ],
+    "tools": [
+      "Git",
+      "Github",
+      "AWS",
+      "Azure"
+    ],
+    "soft_skills": [
+      "Time Management",
+      "Communication",
+      "Adaptability",
+      "Teamwork",
+      "Problem Solving",
+      "Creativity",
+      "Leadership",
+      "Attention to Detail"
+    ],
+    "domains": [
+      "Computer Vision",
+      "GenAI",
+      "Machine Learning"
+    ],
+    "certified_skills": []
+  },
+  "experience": [
+    {
+      "role": "Machine Learning Intern",
+      "company": "SAVYAI",
+      "type": "Internship",
+      "industry": "",
+      "location": "",
+      "start_date": "Jan 1",
+      "end_date": "Jun 31 2025",
+      "duration_months": 6,
+      "description": "Developed a Multimodal RAG system using GPT models and Milvus optimizing retrieval performance through cross validation and fine tuning hyperparameters in hybrid search BM25 Dense Retrieval for improved document intelligence",
+      "skills_used": [
+        "GPT models",
+        "Milvus",
+        "BM25",
+        "Dense Retrieval"
+      ]
+    },
+    {
+      "role": "AI ML Intern",
+      "company": "KGXPERIENCE",
+      "type": "Internship",
+      "industry": "",
+      "location": "",
+      "start_date": "July 1",
+      "end_date": "July 31 2023",
+      "duration_months": 1,
+      "description": "Achieved 0 78229 accuracy by leveraging multiple models in cross validation and optimizing hyperparameters using Grid SearchCV enhancing ensemble performance through advanced feature engineering",
+      "skills_used": [
+        "GridSearchCV"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "FITNESS AI",
+      "description": "Developed a AI Fitness application that can track the HIIT workout performed by the users. It uses Mediapipe and OpenCV providing accuracy over 90 percent.",       
+      "tech_stack": [
+        "Mediapipe",
+        "OpenCV"
+      ],
+      "role": "",
+      "impact": "Accuracy over 90 percent",
+      "link": ""
+    },
+    {
+      "title": "VIDHAI",
+      "description": "Developed a Tomato Disease Identification application along with the user interface for communication between Farmers and Consumers. This project leverages the YOLOv8 algorithm to predict tomato diseases with accuracy over 87.",
+      "tech_stack": [
+        "YOLOv8"
+      ],
+      "role": "",
+      "impact": "Accuracy over 87%",
+      "link": "https://github.com/Im-Shivaprakash/Vidhai"
+    },
+    {
+      "title": "MOVIE RECOMMENDATION LANGCHAIN",
+      "description": "Developed a dynamic movie recommendation system using LangChain and OpenAI s GPT models. The app generates personalized movie recommendations based on user input such as genre director or actor utilizing IMDb data for accurate suggestions.",
+      "tech_stack": [
+        "LangChain",
+        "OpenAI GPT"
+      ],
+      "role": "",
+      "impact": "",
+      "link": "https://github.com/Im-Shivaprakash/MovieRecommenderLangChain"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B Tech",
+      "stream": "AI, DS",
+      "institution": "KGiSL Institute of Technology",
+      "location": "Coimbatore",
+      "start_year": "2021",
+      "end_year": "2025",
+      "cgpa": "8.12"
+    }
+  ],
+  "certifications": [],
+  "achievements": [
+    {
+      "title": "Tomato Grand Challenge",
+      "year": "2024",
+      "description": "Shortlisted for the Final Round conducted by the Ministry of Consumer Affairs. Developed an application called VIDHAI enabling connectivity among consumers and producers."
+    },
+    {
+      "title": "Smart India Hackathon selection Internal",
+      "year": "2023",
+      "description": "Selected in the Internal hackathon conducted by KGiSL Educational Institution for Finals Submission among 100 teams. Developed an application for job search platform with LLM assistance."
+    },
+    {
+      "title": "AWS Deepracer 2 0 league",
+      "year": "2023",
+      "description": "A 48 hour bootcamp organized by KGiSL Educational Institutions. Collaborated with a team of two to develop an AWS Deepracer model."
+    },
+    {
+      "title": "Crackathon",
+      "year": "2022",
+      "description": "Participated in a 48 hrs hackathon conducted by M Kumarasamy College of Engineering Karur. Developed a smart trolley project GOCART and selected in top 7 teams."   
+    },
+    {
+      "title": "PYEXPO 2022",
+      "year": "2022",
+      "description": "Secured Second Runner Up in hackathon organized by KGiSL Institution with cash reward of 12500. Built a Restaurant Bill Generator using Python Language."
+    }
+  ],
+  "languages": [
+    "Python",
+    "SQL"
+  ],
+  "volunteer_experience": [],
+  "raw_extracted_text": "SHIVAPRAKASH S\n  Coimbatore  India\n \n  shivaprakashsrinivasaniam gmail com\n \n  LinkedIn\n \n  GitHub  \n  9994722736\nCareer Objective\nPassionate computer vision engineer with expertise in image processing  object detection  and deep learning techniques \nProficient in Python  OpenCV  TensorFlow  and YOLO algorithm  Skilled in developing innovative solutions for tasks like real \n time object detection  fitness tracking  and disease prediction  Experienced in deploying models for practical applications and\noptimizing performance for large datasets  Dedicated to advancing computer vision through innovative projects and continuous\nlearning \nEducation\n  B Tech  AI   DS  CGPA   8 12  KGiSL Institute of Technology  Coimbatore\n2021 2025\nWork Experience\n  Machine Learning Intern   SAVYAI\nJan 1   Jun 31  2025\n  Developed a Multimodal RAG system using GPT models and Milvus  optimizing retrieval performance through cross \nvalidation and fine tuning hyperparameters in hybrid search  BM25   Dense Retrieval  for improved document intelligence \n  AI   ML Intern   KGXPERIENCE\nJuly 1   July 31  2023\n  Achieved 0 78229 accuracy by leveraging multiple models in cross validation and optimizing hyperparameters using Grid \nSearchCV  enhancing ensemble performance through advanced feature engineering \nTechnical Skills\n  Languages  Python  SQL\n  Libraries Frameworks  Numpy  Pandas  Seaborn  Plotly  Scipy  Matplotlib  Scikit Learn\n  Computer Vision  Tensorflow  OpenCV  YOLO  You Only Look Once   Pytorch\n  GenAI  Pytorch  OpenAI models  Langchain  Langgraph\n  Version Control   Cloud   Git  Github  AWS  Azure\nSoft Skills\n  Time Management  Communication  Adaptability  Teamwork\n  Problem Solving  Creativity  Leadership  Attention to Detail\nProjects\n  FITNESS AI    Developed a AI Fitness application that can track the HIIT workout performed by the users \nIt uses\nMediapipe and OpenCV providing accuracy over 90 percent \n  VIDHAI    Developed a Tomato Disease Identification application along with the user interface for communication between\nFarmers and Consumers This project leverages the YOLOv8 algorithm to predict tomato diseases with accuracy over 87   \n  MOVIE RECOMMENDATION   LANGCHAIN   Developed a dynamic movie recommendation system using LangChain\nand OpenAI s GPT models  The app generates personalized movie recommendations based on user input such as genre  di \nrector  or actor  utilizing IMDb data for accurate suggestions \nParticipations   Achievements\n  Tomato Grand Challenge\nJanuary 22  2024\n  Shortlisted for the Final Round  conducted by the Ministry of Consumer Affairs\n  Developed an application called VIDHAI  enabling connectivity among consumers and producers\n  Smart India Hackathon selection   Internal\nSeptember 16  2023\n  Selected in the Internal hackathon conducted by KGiSL Educational Institution for Finals Submission among 100 teams\n  Developed an application for job search platform with LLM assistance\n  AWS Deepracer 2 0 league\nMarch 10 12  2023\n  A 48 hour bootcamp organized by KGiSL Educational Institutions\n  Collaborated with a team of two to develop an AWS Deepracer model\n  Crackathon\nOctober 20 21  2022\n  Participated in a 48 hrs hackathon  conducted by M Kumarasamy College of Engineering  Karur \n  Developed a smart trolley project   GOCART and selected in top 7 teams \n  PYEXPO 2022\nFebruary 12  2022\n  Secured Second Runner Up in hackathon organized by KGiSL Institution with cash reward of 12500\n  Built a Restaurant Bill Generator using Python Language"
+}
+{
+  "job_title": "Computer Vision Engineer \u2013 Fresher",
+  "role_summary": "We are looking for a Computer Vision Engineer (Fresher) who will work on image processing, deep learning\u2013based model development, and deployment of vision systems for real-world applications.",
+  "skills_required": [
+    "Strong understanding of Python",
+    "Knowledge of OpenCV, NumPy, Pandas",
+    "Basics of Deep Learning frameworks: PyTorch or TensorFlow",
+    "Understanding of CNNs, data preprocessing, augmentations",
+    "Basic knowledge of object detection algorithms (YOLO, SSD, Faster R-CNN)",
+    "Good understanding of image fundamentals (color spaces, filters, morphology)",
+    "Ability to work with datasets and write custom preprocessing pipelines"
+  ],
+  "skills_optional": [
+    "Experience with MediaPipe, OpenVINO, TensorRT, or ONNX",
+    "Knowledge of tracking algorithms (SORT, DeepSORT)",
+    "Experience with Kaggle projects or personal CV projects",
+    "Familiarity with GPU acceleration (CUDA basics)"
+  ],
+  "experience_required": "",
+  "responsibilities": [
+    "Work with image and video datasets for preprocessing, annotation, and augmentation",    
+    "Implement classical computer vision techniques (thresholding, edge detection, feature extraction)",
+    "Build and train deep learning models for detection, classification, and segmentation",  
+    "Evaluate models using metrics like mAP, IOU, accuracy, and F1-score",
+    "Optimize models for inference using ONNX, TensorRT, or OpenVINO",
+    "Collaborate with the team to integrate vision models into applications or pipelines",   
+    "Write clean, modular, and well-documented code"
+  ],
+  "education_required": "Bachelor's degree in Computer Science, AI/ML, ECE, or related fields",
+  "tools_and_technologies": [
+    "Python",
+    "OpenCV",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "TensorFlow",
+    "ONNX",
+    "TensorRT",
+    "OpenVINO",
+    "MediaPipe",
+    "SORT",
+    "DeepSORT",
+    "CUDA"
+  ],
+  "location": "",
+  "employment_type": "",
+  "company": "",
+  "salary_range": ""
+}
+Experience Score: 1.0
+Education Score: 0.97
+Skill Match Score: {
+  "required_skill_match_score": 0.8428571428571429,
+  "optional_skill_match_score": 0.55,
+  "final_skill_match_score": 0.76975,
+  "breakdown": {
+    "required": [
+      {
+        "skill": "Strong understanding of Python",
+        "match": 1.0,
+        "reason": "Candidate lists Python and has multiple Python projects."
+      },
+      {
+        "skill": "Knowledge of OpenCV, NumPy, Pandas",
+        "match": 1.0,
+        "reason": "Python skills include OpenCV, NumPy, and Pandas.\\n"
+      },
+      {
+        "skill": "Basics of Deep Learning frameworks: PyTorch or TensorFlow",
+        "match": 1.0,
+        "reason": "Candidate lists both TensorFlow and PyTorch.\\n"
+      },
+      {
+        "skill": "Understanding of CNNs, data preprocessing, augmentations",
+        "match": 0.6,
+        "reason": "Use of YOLOv8 implies CNN knowledge; data preprocessing with OpenCV; augmentation inferred but not explicitly detailed."
+      },
+      {
+        "skill": "Basic knowledge of object detection algorithms (YOLO, SSD, Faster R-CNN)", 
+        "match": 1.0,
+        "reason": "Project VIDHAI uses YOLOv8 for object detection."
+      },
+      {
+        "skill": "Good understanding of image fundamentals (color spaces, filters, morphology)",
+        "match": 0.7,
+        "reason": "OpenCV usage indicates familiarity with image fundamentals; explicit mention not present."
+      },
+      {
+        "skill": "Ability to work with datasets and write custom preprocessing pipelines",   
+        "match": 0.6,
+        "reason": "Projects involve dataset handling and preprocessing steps with OpenCV and YOLO."
+      }
+    ],
+    "optional": [
+      {
+        "skill": "Experience with MediaPipe, OpenVINO, TensorRT, or ONNX",
+        "match": 1.0,
+        "reason": "FITNESS AI project uses Mediapipe."
+      },
+      {
+        "skill": "Knowledge of tracking algorithms (SORT, DeepSORT)",
+        "match": 0.0,
+        "reason": "No mention of tracking algorithms."
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "match": 0.8,
+        "reason": "Candidate has multiple personal CV projects, though not Kaggle.\\n"       
+      },
+      {
+        "skill": "Familiarity with GPU acceleration (CUDA basics)",
+        "match": 0.4,
+        "reason": "No explicit CUDA mention, infer minimal GPU knowledge."
+      }
+    ]
+  }
+}
+Final Match Score: 0.835825

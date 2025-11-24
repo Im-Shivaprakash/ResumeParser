@@ -1,0 +1,311 @@
+(hr) PS C:\Users\Shivaprakash\Documents\Learning\Projects\HR Assistant> python ResumeParser.py
+{
+  "candidate_id": "",
+  "name": "Praveen Raj",
+  "contact": {
+    "email": "mailto:praveenrajchandiran@gmail.com",
+    "phone": [
+      "9629212454"
+    ],
+    "location": "Coimbatore, INDIA",
+    "linkedin": "https://www.linkedin.com/in/praveen-raj-chandiran/",
+    "github": "https://www.behance.net/praveenraj52",
+    "portfolio": "https://designerpraveen.framer.website",
+    "other_links": [
+      "https://www.behance.net/praveenraj52",
+      "https://designerpraveen.framer.website"
+    ]
+  },
+  "headline": "Creative Designer",
+  "summary": "Highly capable Senior Creative Designer with 3  years of hands on design experience gained through a combination of professional employment and structured project leadership  Proven ability to deliver intuitive UI UX  visual design  and  brand identity solutions for web  mobile  and print platforms  Skilled in cross functional collaboration  design strategy  and  user centered design  Driven to create engaging digital experiences and high quality visual assets that successfully drive user engagement and business growth",
+  "skills": {
+    "technical": [
+      "UX UI Design",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "User Research",
+      "Usability Testing",
+      "Accessibility",
+      "Visual Branding",
+      "Branding",
+      "Logo Design",
+      "Packaging Design",
+      "Typography",
+      "Color Theory",
+      "Print",
+      "Digital Assets"
+    ],
+    "tools": [
+      "Figma",
+      "Adobe XD",
+      "Photoshop",
+      "Illustrator",
+      "Framer AI",
+      "Trello",
+      "Notion",
+      "Orta"
+    ],
+    "soft_skills": [
+      "Cross functional collaboration",
+      "Design Strategy",
+      "User centred design",
+      "Agile",
+      "Problem Solving"
+    ],
+    "domains": [
+      "UI UX",
+      "Brand Identity",
+      "Print",
+      "Web",
+      "Mobile",
+      "Packaging"
+    ],
+    "certified_skills": []
+  },
+  "experience": [
+    {
+      "role": "Creative Design Lead",
+      "company": "Yucel Hub",
+      "type": "Full Time",
+      "industry": "",
+      "location": "Coimbatore",
+      "start_date": "May 2025",
+      "end_date": "Present",
+      "duration_months": 0,
+      "description": "",
+      "skills_used": []
+    },
+    {
+      "role": "Chief Designer",
+      "company": "IPS Tech Community",
+      "type": "Full Time",
+      "industry": "",
+      "location": "Coimbatore",
+      "start_date": "Feb 2024",
+      "end_date": "Apr 202",
+      "duration_months": 0,
+      "description": "Served as Chief Designer for multiple high pro file hackathons  PYEXPO'24  PYEXPO'25  SIH Thiruvizha  and  Deepracer '25  Spearheaded and executed the complete UI UX design for digital platforms  event branding  and promotional assets  for all hackathons  Managed and mentored a team of designers to ensure design consistency and a unified brand experience across all events  Delivered end to end UI UX solutions for web and mobile applications  Collaborated with developers to ensure seamless implementation  Developed high  fidelity wireframes and prototypes  Conducted usability tests and iterated designs based on user feedback",
+      "skills_used": []
+    },
+    {
+      "role": "UX UI Designer",
+      "company": "KGXperience",
+      "type": "Full Time",
+      "industry": "",
+      "location": "Coimbatore",
+      "start_date": "Jun 2024",
+      "end_date": "Nov 2024",
+      "duration_months": 0,
+      "description": "",
+      "skills_used": []
+    },
+    {
+      "role": "UX UI Intern",
+      "company": "Course Khoj",
+      "type": "Internship",
+      "industry": "",
+      "location": "Remote",
+      "start_date": "Feb 2023",
+      "end_date": "Jun 2023",
+      "duration_months": 0,
+      "description": "",
+      "skills_used": []
+    }
+  ],
+  "projects": [
+    {
+      "title": "Nature Skincare Brand",
+      "description": "Designed logo  brand identity  packaging  and web UI  enhancing brand recognition and consistency",
+      "tech_stack": [],
+      "role": "",
+      "impact": "",
+      "link": "https://designerpraveen.framer.website"
+    },
+    {
+      "title": "Alaimagal Restaurant UI/UX",
+      "description": "Delivered end to end web and mobile UX UI design improving online engagement and user experience",
+      "tech_stack": [],
+      "role": "",
+      "impact": "",
+      "link": "https://designerpraveen.framer.website"
+    },
+    {
+      "title": "Fitness Workout App UI",
+      "description": "Designed an AI powered app with posture tracking and HIIT based workouts",
+      "tech_stack": [],
+      "role": "",
+      "impact": "",
+      "link": "https://designerpraveen.framer.website"
+    },
+    {
+      "title": "Mental Health App UI",
+      "description": "Developed a stress relief app with guided exercises and psychiatrist contact features",
+      "tech_stack": [],
+      "role": "",
+      "impact": "",
+      "link": "https://designerpraveen.framer.website"
+    },
+    {
+      "title": "Event Branding for PYEXPO'25, SIH Thiruvizha, Deepracer '25",
+      "description": "Designed the complete visual and physical identity  including the logo  UI  presentation themes  and all print physical assets  stage backdrops  selfie booths  flex banners  ID cards  and custom apparel hoodies",
+      "tech_stack": [],
+      "role": "",
+      "impact": "",
+      "link": "https://designerpraveen.framer.website"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B Tech",
+      "stream": "AI DS",
+      "institution": "KGISL Institute of Technology",
+      "location": "Coimbatore",
+      "start_year": "",
+      "end_year": "",
+      "cgpa": ""
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "raw_extracted_text": "Praveen Raj\nCreative Designer\nProfessional Summary\nHighly capable Senior Creative Designer with 3  years of hands on design experience gained through a combination of \nprofessional employment and structured project leadership  Proven ability to deliver intuitive UI UX  visual design  and \nbrand identity solutions for web  mobile  and print platforms  Skilled in cross functional collaboration  design strategy  and \nuser centered design  Driven to create engaging digital experiences and high quality visual assets that successfully drive \nuser engagement and business growth \nProfessional Experience\nNotable Projects\nCore Skills\nEducation\nRelevant Design Experience\nCreative Design Lead  Yucel Hub  Coimbatore   May 2025   Present\nChief Designer  IPS Tech Community  Coimbatore   Feb 2024   Apr 202\nUX UI Designer  KGXperience  Coimbatore   Jun 2024   Nov 2024\nUX UI Intern  Course Khoj  Remote   Feb 2023   Jun 2023\n Experience gained parallel to academics  demonstrating early leadership and practical execution  \nDesign and deliver comprehensive UI UX  branding  packaging  print  and social media assets  \nCollaborate with cross functional teams to create cohesive digital and brand experiences \nU\n I  Nature Skincare Brand   Designed logo  brand identity  packaging  and web UI  enhancing brand recognition \nand consistency \nAlaimagal Restaurant UI UX  Delivered end to end web and mobile UX UI design  improving online engagement and \nuser experience \nFitness Workout App UI  Designed an AI powered app with posture tracking and HIIT based workouts \nMental Health App UI  Developed a stress relief app with guided exercises and psychiatrist contact features \nEvent Branding  PYEXPO'25  SIH Thiruvizha  Deepracer '25   Designed the complete visual and physical identity  \nincluding the logo  UI  presentation themes  and all print physical assets  stage backdrops  selfie booths  flex \nbanners  ID cards  and custom apparel hoodies  \nDesign   UX   UI UX Design  Wireframing  Prototyping  Design Systems  User Research  Usability Testing  \nAccessibility\nVisual   Branding  Branding  Logo Design  Packaging Design  Typography  Color Theory  Print   Digital Assets\nTools   Software   Figma  Adobe XD  Photoshop  Illustrator  Framer AI  Trello  Notion  Orta\nMethodology   Cross functional Collaboration  Agile  Design Thinking  Problem Solving\nB Tech in AI   DS KGISL Institute of Technology  Coimbatore\nServed as Chief Designer for multiple high pro file hackathons  PYEXPO'24  PYEXPO'25  SIH Thiruvizha  and \nDeepracer '25 \nSpearheaded and executed the complete UI UX design for digital platforms  event branding  and promotional assets \nfor all hackathons  Managed and mentored a team of designers to ensure design consistency and a unified brand \nexperience across all events \nDelivered end to end UI UX solutions for web and mobile applications  \nCollaborated with developers to ensure seamless implementation \nDeveloped high  fidelity wireframes and prototypes \nConducted usability tests and iterated designs based on user feedback \nCoimbatore  INDIA\n 91 9629212454 \npraveenrajchandiran gmail com\nLinkedIn\nBehance\nPortfolio"
+}
+{
+  "job_title": "Computer Vision Engineer \u2013 Fresher",
+  "role_summary": "We are looking for a Computer Vision Engineer (Fresher) who will work on image processing, deep learning\u2013based model development, and deployment of vision systems for real-world applications.",
+  "skills_required": [
+    "Strong understanding of Python",
+    "Knowledge of OpenCV, NumPy, Pandas",
+    "Basics of Deep Learning frameworks: PyTorch or TensorFlow",
+    "Understanding of CNNs, data preprocessing, augmentations",
+    "Basic knowledge of object detection algorithms (YOLO, SSD, Faster R-CNN)",
+    "Good understanding of image fundamentals (color spaces, filters, morphology)",
+    "Ability to work with datasets and write custom preprocessing pipelines"
+  ],
+  "skills_optional": [
+    "Experience with MediaPipe, OpenVINO, TensorRT, or ONNX",
+    "Knowledge of tracking algorithms (SORT, DeepSORT)",
+    "Experience with Kaggle projects or personal CV projects",
+    "Familiarity with GPU acceleration (CUDA basics)"
+  ],
+  "experience_required": "",
+  "responsibilities": [
+    "Work with image and video datasets for preprocessing, annotation, and augmentation",    
+    "Implement classical computer vision techniques (thresholding, edge detection, feature extraction)",
+    "Build and train deep learning models for detection, classification, and segmentation",  
+    "Evaluate models using metrics like mAP, IOU, accuracy, and F1-score",
+    "Optimize models for inference using ONNX, TensorRT, or OpenVINO",
+    "Collaborate with the team to integrate vision models into applications or pipelines",   
+    "Write clean, modular, and well-documented code"
+  ],
+  "education_required": "Bachelor's degree in Computer Science, AI/ML, ECE, or related fields",
+  "tools_and_technologies": [
+    "Python",
+    "OpenCV",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "TensorFlow",
+    "ONNX",
+    "TensorRT",
+    "OpenVINO",
+    "MediaPipe",
+    "CUDA basics"
+  ],
+  "location": "",
+  "employment_type": "",
+  "company": "",
+  "salary_range": ""
+}
+Experience Score: 1.0
+Education Score: 0.97
+Skill Match Score: {
+  "required_skill_match_score": 0.0,
+  "optional_skill_match_score": 0.0,
+  "final_skill_match_score": 0.0,
+  "breakdown": {
+    "required": [
+      {
+        "skill": "Strong understanding of Python",
+        "match": 0.0,
+        "reason": "Candidate does not list or imply experience with Python"
+      },
+      {
+        "skill": "Knowledge of OpenCV, NumPy, Pandas",
+        "match": 0.0,
+        "reason": "No mention or implied use of OpenCV, NumPy or Pandas"
+      },
+      {
+        "skill": "Basics of Deep Learning frameworks: PyTorch or TensorFlow",
+        "match": 0.0,
+        "reason": "Candidate has no experience with PyTorch or TensorFlow"
+      },
+      {
+        "skill": "Understanding of CNNs, data preprocessing, augmentations",
+        "match": 0.0,
+        "reason": "No evidence of working with CNNs or image preprocessing"
+      },
+      {
+        "skill": "Basic knowledge of object detection algorithms (YOLO, SSD, Faster R-CNN)", 
+        "match": 0.0,
+        "reason": "No indication of object detection work"
+      },
+      {
+        "skill": "Good understanding of image fundamentals (color spaces, filters, morphology)",
+        "match": 0.0,
+        "reason": "No image processing background demonstrated"
+      },
+      {
+        "skill": "Ability to work with datasets and write custom preprocessing pipelines",   
+        "match": 0.0,
+        "reason": "No dataset handling or preprocessing experience shown"
+      }
+    ],
+    "optional": [
+      {
+        "skill": "Experience with MediaPipe, OpenVINO, TensorRT, or ONNX",
+        "match": 0.0,
+        "reason": "No such experience"
+      },
+      {
+        "skill": "Knowledge of tracking algorithms (SORT, DeepSORT)",
+        "match": 0.0,
+        "reason": "No tracking or algorithmic skills"
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "skill": "Knowledge of tracking algorithms (SORT, DeepSORT)",
+        "match": 0.0,
+        "reason": "No tracking or algorithmic skills"
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "match": 0.0,
+        "reason": "No tracking or algorithmic skills"
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "reason": "No tracking or algorithmic skills"
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+      },
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+      {
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "skill": "Experience with Kaggle projects or personal CV projects",
+        "match": 0.0,
+        "reason": "No Kaggle or CV projects evident"
+      },
+      {
+        "skill": "Familiarity with GPU acceleration (CUDA basics)",
+        "match": 0.0,
+        "reason": "No GPU or CUDA experience"
+      }
+    ]
+  }
+}
+Final Match Score: 0.29700000000000004
